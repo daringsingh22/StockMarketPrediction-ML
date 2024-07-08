@@ -1,1 +1,1 @@
-# StockMarketPrediction-ML
+This ML Project is  end to end web application of Machine learning model which predicts the stock market price of a stock.  Machine learning model with neural networks using TensorFlow Keras layers and created a ML model with layers as Dense, Dropout, LSTM.
